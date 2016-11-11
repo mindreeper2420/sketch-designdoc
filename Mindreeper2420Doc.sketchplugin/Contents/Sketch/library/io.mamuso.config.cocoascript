@@ -1,0 +1,9 @@
+var io = io ? io : {};
+io.mamuso = io.mamuso ? io.mamuso : {};
+
+io.mamuso.config = {
+  guidePath: "DesignDoc",   // Name of the folder we are going to create
+  scale: "2.0",             // Scale of the images we are going to export
+  primary: "#292e34",       // Color for headers - PatternFly pf-black-900
+  secondary: "#0088ce"      // Color for accents - PatternFly pf-blue
+};

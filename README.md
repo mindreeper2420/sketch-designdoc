@@ -1,3 +1,6 @@
+# NOTE
+This plugin is a fork of the Sketch Design Doc plugin for Sketch. I have forked this in order to apply PatternFly colors to the exported HTML.
+
 # Sketch Design Doc :chicken::dog:
 This plugin exports a simple website using a bunch of conventions and a Sketch document as the structure. We named the plugin "design doc" because initially, we used it to export a design guideline, but we have been using it for many other things.
 
